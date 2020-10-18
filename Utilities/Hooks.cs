@@ -11,7 +11,7 @@ namespace Bdd_Task.Utilities
     [Binding]
     public sealed class Hooks
     {
-        public static IWebDriver driver;
+        public static IWebDriver driver { get; set; }
 
         [BeforeScenario]
         public void BeforeScenario()
@@ -22,7 +22,7 @@ namespace Bdd_Task.Utilities
         [AfterScenario]
         public void AfterScenario()
         {
-            // driver.Close();
+            driver.Close();
         }
     }
 }

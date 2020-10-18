@@ -114,7 +114,7 @@ namespace Bdd_Task.PageObject
         {
             Hooks.driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(5);
             SignInBtn.Click();
-            EmailAddress.SendKeys("Answer1000@email.com");
+            EmailAddress.SendKeys("Answer1001@email.com");
             Hooks.driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(5);
             CreateAcccontBtn.Click();
         }

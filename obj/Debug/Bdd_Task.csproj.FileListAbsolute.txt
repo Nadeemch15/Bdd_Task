@@ -1,10 +1,6 @@
+C:\Users\Nadeem\source\repos\Bdd_Task\Bdd_Task\bin\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
 C:\Users\Nadeem\source\repos\Bdd_Task\Bdd_Task\bin\Debug\Bdd_Task.dll
 C:\Users\Nadeem\source\repos\Bdd_Task\Bdd_Task\bin\Debug\Bdd_Task.pdb
-C:\Users\Nadeem\source\repos\Bdd_Task\Bdd_Task\obj\Debug\Bdd_Task.csprojAssemblyReference.cache
-C:\Users\Nadeem\source\repos\Bdd_Task\Bdd_Task\obj\Debug\Bdd_Task.csproj.CoreCompileInputs.cache
-C:\Users\Nadeem\source\repos\Bdd_Task\Bdd_Task\obj\Debug\Bdd_Task.dll
-C:\Users\Nadeem\source\repos\Bdd_Task\Bdd_Task\obj\Debug\Bdd_Task.pdb
-C:\Users\Nadeem\source\repos\Bdd_Task\Bdd_Task\bin\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
 C:\Users\Nadeem\source\repos\Bdd_Task\Bdd_Task\bin\Debug\Microsoft.Win32.Primitives.dll
 C:\Users\Nadeem\source\repos\Bdd_Task\Bdd_Task\bin\Debug\netstandard.dll
 C:\Users\Nadeem\source\repos\Bdd_Task\Bdd_Task\bin\Debug\System.AppContext.dll
@@ -123,4 +119,7 @@ C:\Users\Nadeem\source\repos\Bdd_Task\Bdd_Task\bin\Debug\TechTalk.SpecFlow.NUnit
 C:\Users\Nadeem\source\repos\Bdd_Task\Bdd_Task\bin\Debug\Utf8Json.xml
 C:\Users\Nadeem\source\repos\Bdd_Task\Bdd_Task\bin\Debug\WebDriver.xml
 C:\Users\Nadeem\source\repos\Bdd_Task\Bdd_Task\bin\Debug\WebDriver.Support.xml
+C:\Users\Nadeem\source\repos\Bdd_Task\Bdd_Task\obj\Debug\Bdd_Task.csproj.CoreCompileInputs.cache
 C:\Users\Nadeem\source\repos\Bdd_Task\Bdd_Task\obj\Debug\Bdd_Task.csproj.CopyComplete
+C:\Users\Nadeem\source\repos\Bdd_Task\Bdd_Task\obj\Debug\Bdd_Task.dll
+C:\Users\Nadeem\source\repos\Bdd_Task\Bdd_Task\obj\Debug\Bdd_Task.pdb
